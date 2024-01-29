@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1706547792 source:c:\users\yousef amer\desktop\cd\security\toy.cpp
+	"toy.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1706548013 c:\users\yousef amer\desktop\cd\security\toy.h
+
+1706548265 source:c:\users\yousef amer\desktop\cd\security\main.cpp
+	<iostream>
+	"toy.h"
+
